@@ -3,5 +3,5 @@ A website for the Association Of Computer Science Students, Imo State University
 
 ### Contributors List
 
-..* AMADI AUSTIN CHUKWUEMEKA
-..* EMETO WINNER
+* AMADI AUSTIN CHUKWUEMEKA
+* EMETO WINNER
