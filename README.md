@@ -5,3 +5,4 @@ A website for the Association Of Computer Science Students, Imo State University
 
 * AMADI AUSTIN CHUKWUEMEKA
 * EMETO WINNER
+* DIKE PASCAL OZIOMA
